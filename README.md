@@ -3,7 +3,7 @@
 🎓 Studied ***Ingeniería Comercial (Business Economics and Statistics)*** at [Universidad Del Desarrollo](https://negocios.udd.cl/), Chile <br/>
 (5-year program covering finance, economics, statistics, econometrics, corporate valuation and information technology) <br/>
 
-🎓 Pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/). <br/>
+🌱 Pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/). <br/>
 
 💼 Working as a ***Data Analyst***, focused on data analysis, reporting and KPI monitoring to support business and strategic decision-making. <br/>
 
@@ -12,7 +12,7 @@
 📫 How to reach me: gdominguezcon@gmail.com <br/>
 
 ### Interests and Goals🌟
-I am passionate about data analytics, Data Science, predictive modeling and Artificial Intelligence. I enjoy combining business understanding, statistical thinking and machine learning to transform data into actionable insights and support better decision-making.
+I am passionate about data analytics, Data Science, predictive modeling and Artificial Intelligence. I enjoy combining business understanding, statistical thinking and machine learning to transform data into insights and working collaboratively in data-driven environments.
 
 My interests include developing end-to-end data projects, exploring practical applications of machine learning and continuously strengthening my skills through my professional experience, academic training and personal projects.
 
@@ -27,4 +27,3 @@ I seek challenges that encourage growth and foster innovation.
 - Business Intelligence & Visualization: Power BI, Excel, Streamlit.
 - Data Platforms & Cloud: Snowflake, Azure.
 - Other Tools: Linux.
-
