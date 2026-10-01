@@ -1,29 +1,35 @@
-# Hi 👋, I'm Germán  
+# Hi, I'm Germán 👋
+## Data Analyst | Applied Data Science & Machine Learning
 
-🎓 Studied ***Ingeniería Comercial (Business Economics and Statistics)*** at [Universidad Del Desarrollo](https://negocios.udd.cl/), Chile <br/>
-(5-year program covering finance, economics, statistics, econometrics, corporate valuation and information technology) <br/>
+## About Me
 
-🌱 Pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/). <br/>
+I’m a Data Analyst with a background in business economics and statistics, focused on transforming data into actionable insights and supporting data-driven decision-making.
+
+🎓 Studied ***Ingeniería Comercial (Business Economics and Statistics)*** at [Universidad del Desarrollo](https://negocios.udd.cl/), Chile. This five-year program covered finance, economics, statistics, econometrics, corporate valuation and information technology. <br/>
+
+🌱 Currently pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/). <br/>
 
 💼 Working as a ***Data Analyst***, focused on data analysis, reporting and KPI monitoring to support business and strategic decision-making. <br/>
 
-📊 Experience in Data Analytics and ***Machine Learning***, with projects developed in Python covering ***exploratory analysis***, ***feature engineering*** and ***predictive modeling***. <br/>
+📊 Developing projects in Python involving ***exploratory data analysis***, ***feature engineering*** and ***predictive modeling***. <br/>
 
-📫 How to reach me: gdominguezcon@gmail.com <br/>
+## Technical Skills 🛠️
 
-### Interests and Goals🌟
-I am passionate about data analytics, Data Science, predictive modeling and Artificial Intelligence. I enjoy combining business understanding, statistical thinking and machine learning to transform data into insights and working collaboratively in data-driven environments.
+- **Programming:** Python, SQL, DAX
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, feature engineering, predictive modeling
+- **Business Intelligence & Visualization:** Power BI, Excel, Streamlit
+- **Data Platforms & Cloud:** Snowflake, Azure
+- **Other Tools:** Linux
 
-My interests include developing end-to-end data projects, exploring practical applications of machine learning and continuously strengthening my skills through my professional experience, academic training and personal projects.
+## Interests & Goals 🌟
 
-I consider myself a ***proactive***, ***self-driven problem solver*** who enjoys transforming data into insights and working collaboratively in data-driven environments.
+I’m passionate about data analytics, applied data science, predictive modeling and artificial intelligence. I enjoy combining business understanding, statistical thinking and machine learning to solve practical problems and generate meaningful insights.
 
-I seek challenges that encourage growth and foster innovation.
+My goal is to continue developing end-to-end data projects, strengthen my technical expertise and contribute to data-driven environments where analytics can support better decisions and measurable results.
 
-## Tech ToolBox 🛠️
+I consider myself a ***proactive*** and ***self-driven problem solver*** who enjoys transforming data into insights and working collaboratively with others.
 
-- Languages: Python, SQL, DAX.
-- Data Analysis & Machine Learning: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
-- Business Intelligence & Visualization: Power BI, Excel, Streamlit.
-- Data Platforms & Cloud: Snowflake, Azure.
-- Other Tools: Linux.
+## Contact 📫
+
+- **Email:** gdominguezcon@gmail.com
