@@ -5,9 +5,9 @@
 
 I’m a Data Analyst with a background in business economics and statistics, focused on transforming data into actionable insights and supporting data-driven decision-making.
 
-🎓 Studied ***Ingeniería Comercial (Business Economics and Statistics)*** at [Universidad del Desarrollo](https://negocios.udd.cl/), Chile. This five-year program covered finance, economics, sta[...]
+🎓 Studied ***Ingeniería Comercial (Business Economics and Statistics)*** at [UDD](https://negocios.udd.cl/), Chile. This five-year program covered finance, economics, sta[...]
 
-🌱 Currently pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/). <br/>
+🌱 Currently pursuing a ***Master's Degree in Big Data and Data Science*** at [UCM](https://www.masterbigdataucm.com/), Madrid <br/>
 
 💼 Currently working as a ***Data Analyst at Icon Group***. <br/>
 
